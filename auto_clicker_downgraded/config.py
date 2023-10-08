@@ -1,0 +1,2 @@
+
+keybind_config = 'h'
